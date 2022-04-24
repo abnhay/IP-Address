@@ -9,6 +9,8 @@ $ apt install git -y
 
 $ git clone https://github.com/abnhay/IP-Address.git
 
+$ cd IP-Address
+
 $ chmod +x *
 
 $ ./install.sh
